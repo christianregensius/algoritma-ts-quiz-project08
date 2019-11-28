@@ -1,0 +1,11 @@
+---
+title: "TS Quiz Christian Regensius"
+author: "Christian Regensius"
+date: "28/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
